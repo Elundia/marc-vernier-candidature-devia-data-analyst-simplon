@@ -10,3 +10,11 @@ Il utilise deux outils : [pandas](https://pandas.pydata.org/about/) et [plotly](
 
 Ceci est un import du projet suivant : [projet-devia-data-analyst-simplon](https://github.com/paufabregat/projet-devia-data-analyst-simplon).
 Réalisé dans le cadre de ma candidature à la prochaine session de formation.
+
+# Comment est organisé le contenu ?
+
+Le répertoire Exports_SQL contient à la fois les exports SQL des requêtes effectuées pour la 1ère partie du brief
+et les captures écran des résultats affichés pour chacune d'entre elles.
+
+À la racine du projet, nous retrouvons les fichiers ajoutés suite à l'exécution du programme d'exemple fourni, app.py,
+ainsi qu'à la création de 2 copies modifiées puis exécutées afin de répondre à la 2nde partie du brief.

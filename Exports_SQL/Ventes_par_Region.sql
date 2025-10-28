@@ -1,0 +1,1 @@
+SELECT region, SUM(qte) AS total_ventes FROM ventes GROUP BY region ;

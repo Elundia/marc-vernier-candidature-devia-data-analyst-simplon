@@ -1,0 +1,1 @@
+SELECT SUM(qte * prix) AS Chiffre_d_Affaires FROM ventes ;

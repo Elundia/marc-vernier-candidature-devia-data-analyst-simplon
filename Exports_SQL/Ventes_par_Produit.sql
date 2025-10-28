@@ -1,0 +1,1 @@
+SELECT produit, SUM(qte) AS total_ventes FROM ventes GROUP BY produit ;
